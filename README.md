@@ -42,7 +42,7 @@ My name is Maciej. I am a beginner programmer mainly interested in Data Science.
 
 
 ## Operating Systems
-<br><img align="left" alt="macos" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+<br><img align="left" alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 <img align="left" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><br>
 
 ## IDE
