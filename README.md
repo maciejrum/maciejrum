@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 
 -->
-My name is Maciej. I am a beginner programmer mainly interested in Data Science. I'm still learning and improving my skills in such areas as Python R, SQL. I am also doing a course from JavaScript and React.
+My name is Maciej. I am a beginner programmer mainly interested in Data Science. I'm still learning and improving my skills in such areas as Python, R and SQL. I am also doing a course from JavaScript and React.
 
 
 ## Connect with me
