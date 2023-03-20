@@ -53,4 +53,6 @@ Here are some ideas to get you started:
 <br><img align="left" alt="Microsoft-Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img align="left" alt="Microsotf-Office-365" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /><br>
 
+
+## Codewars stats
 ![Codewars](https://github.r2v.ch/codewars?user=maciejrum&stroke=%23BB432C)
