@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Microsotf-Office-365" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /><br>
 
 
-## Codewars stats 
+## Codewars stats
 ![Codewars](https://github.r2v.ch/codewars?user=maciejrum&stroke=%23BB432C)
